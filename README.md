@@ -1,0 +1,2 @@
+# SG-AplikacjaKG
+GitHub Pages
